@@ -1,0 +1,32 @@
+[
+  {
+    "productId": "HI333",
+    "rating": 3,
+    "text": "Good product."
+  },
+  {
+    "productId": "HI333",
+    "rating": 4,
+    "text": "Awesome product!"
+  },
+  {
+    "productId": "HI333",
+    "rating": 2,
+    "text": "Not bad..."
+  },
+  {
+    "productId": "HI333",
+    "rating": 1,
+    "text": "I don't like it."
+  },
+  {
+    "productId": "HI333",
+    "rating": 4,
+    "text": "Very good product!!!"
+  },
+  {
+    "productId": "HI333",
+    "rating": 4,
+    "text": "Very good product!!!"
+  }
+]
